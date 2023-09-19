@@ -1,2 +1,3 @@
 hello world from devops-nuces!
 we're adding feature 1 (from feature branch)
+file updated for a three way merge.
